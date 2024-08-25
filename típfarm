@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MasterFarm - Máy Farm Hữu Dụng trong Minecraft</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: #3498db;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #e74c3c;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MasterFarm</h1>
+        <p>Khám Phá Các Máy Farm Hữu Dụng Trong Minecraft Sinh Tồn</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Giới Thiệu</h2>
+            <p>Chào mừng bạn đến với MasterFarm! Trang web này được thiết kế để cung cấp cho bạn thông tin về các máy farm hữu dụng trong Minecraft khi sinh tồn. Dưới đây là danh sách một số máy farm phổ biến và hữu ích mà bạn có thể sử dụng để cải thiện trải nghiệm chơi game của mình.</p>
+        </section>
+        
+        <section>
+            <h2>Các Máy Farm Hữu Dụng</h2>
+            <ul>
+                <li><strong>Farm Quái Vật:</strong> Tạo ra một khu vực tối tăm để quái vật spawn, từ đó bạn có thể thu thập các vật phẩm giá trị như Ender Pearls và Gunpowder.</li>
+                <li><strong>Farm Cây:</strong> Sử dụng các phương pháp để trồng và thu hoạch cây nhanh chóng, giúp bạn có đủ nguyên liệu để chế tạo và xây dựng.</li>
+                <li><strong>Farm Cá:</strong> Tạo các ao hoặc bể cá để thu hoạch cá một cách hiệu quả, cung cấp thực phẩm và các vật phẩm khác.</li>
+                <li><strong>Farm Lúa Mạch:</strong> Tạo các cánh đồng lúa mạch để có thể chế biến thành bánh hoặc thực phẩm khác.</li>
+                <li><strong>Farm Khoáng Sản:</strong> Tạo hệ thống khai thác tự động để thu thập khoáng sản như sắt, vàng, và kim cương.</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Hướng Dẫn Cơ Bản</h2>
+            <p>Bạn có thể tìm thấy các hướng dẫn chi tiết về cách xây dựng các máy farm này trên các trang web và video hướng dẫn trực tuyến. Đừng quên kiểm tra các cộng đồng Minecraft để cập nhật các mẹo và thủ thuật mới nhất!</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 MasterFarm. Tất cả các quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html>
